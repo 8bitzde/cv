@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+}
+
+div{
+}
+
+h1{
+    margin: 0px;
+}
+
+.top-container{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+position: absolute;
+top: 400px;
+left:400px;
+}
+
+.middle-container{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    position: absolute;
+    top:200px;
+    left: 200px;
+}
+
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+
+}
